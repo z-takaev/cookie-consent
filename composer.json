@@ -1,5 +1,5 @@
 {
-    "name": "z-takaev/cookie-consent",
+    "name": "ztakaev/cookie-consent",
     "description": "Laravel package for cookie consent management",
     "minimum-stability": "stable",
     "license": "MIT",

@@ -14,7 +14,7 @@
 Установите пакет через Composer:
 
 ```bash
-composer require z-takaev/cookie-consent
+composer require ztakaev/cookie-consent
 ```
 
 ### 2. Публикация ресурсов
