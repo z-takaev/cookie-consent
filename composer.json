@@ -1,0 +1,26 @@
+{
+    "name": "zatakata/cookie-consent",
+    "description": "Laravel package for cookie consent management",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "ztakaev",
+            "email": "zatakata.web@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ztakaev\\CookieConsent\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ztakaev\\CookieConsent\\Providers\\CookieConsentServiceProvider"
+            ]
+        }
+    }
+}
