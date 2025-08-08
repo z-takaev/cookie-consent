@@ -47,15 +47,6 @@ php artisan cookie-consent:publish
 <x-cookie-consent::popup />
 ```
 
-или
-
-```blade
-<x-cookie-consent::popup
-    main_text="main text example"
-    btn_text="btn text example"
-/>
-```
-
 ## Конфигурация
 
 При необходимости настройки параметров пакета, опубликуйте файл конфигурации:
